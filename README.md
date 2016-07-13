@@ -1,5 +1,8 @@
 # AtemTally_ESP8266EX_Arduino
 
+ATEM tally program for ESP-WROOM-02 (ESP8266EX + Arduino Core)  
+
+
 This code was in reference to the https://github.com/kasperskaarhoj/SKAARHOJ-Open-Engineering/tree/master/ArduinoLibs
 
 ## Configration
