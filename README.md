@@ -4,12 +4,12 @@ This code was in reference to the https://github.com/kasperskaarhoj/SKAARHOJ-Ope
 
 ## Configration
 
-D16: Red Tally (LED)
-D5: Green Tally (LED)
+D16: Red Tally (LED)  
+D5: Green Tally (LED)  
 
-D14: Cam No (LSB)
-D12: Cam No
-D13: Cam No (MSB)
+D14: Cam No (LSB)  
+D12: Cam No  
+D13: Cam No (MSB)  
 
     // IP address of the ATEM Switcher
     IPAddress switcherIp(192, 168, 10, 240);
